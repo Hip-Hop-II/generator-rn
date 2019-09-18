@@ -1,0 +1,15 @@
+{
+  "name": "generator-rn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Hip-Hop-II/generator-rn.git",
+  "author": "Smile <xcxerxes@aliyun.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.6.3"
+  },
+  "dependencies": {
+    "rimraf": "^3.0.0",
+    "sharp": "^0.23.0"
+  }
+}
