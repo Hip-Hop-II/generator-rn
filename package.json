@@ -10,6 +10,6 @@
   },
   "dependencies": {
     "rimraf": "^3.0.0",
-    "sharp": "^0.23.0"
+    "sharp": "^0.30.5"
   }
 }
